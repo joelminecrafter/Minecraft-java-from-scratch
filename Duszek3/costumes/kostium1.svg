@@ -1,0 +1,45 @@
+<svg version="1.1" width="34.51969913481466" height="30.29300121306173" viewBox="0.3813999700606281 6.657000045782369 34.51969913481466 30.29300121306173" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="grad_1" y2="1" x2="0">
+      <stop offset="0" stop-color="#995900" stop-opacity="1"/>
+      <stop offset="1" stop-color="#663B00" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_2" y2="1" x2="0">
+      <stop offset="0" stop-color="#663B00" stop-opacity="1"/>
+      <stop offset="1" stop-color="#663B00" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_3" y2="1" x2="0">
+      <stop offset="0" stop-color="#995900" stop-opacity="1"/>
+      <stop offset="1" stop-color="#663B00" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_4" y2="1" x2="0">
+      <stop offset="0" stop-color="#663B00" stop-opacity="1"/>
+      <stop offset="1" stop-color="#663B00" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_5" x2="1">
+      <stop offset="0" stop-color="#369909" stop-opacity="1"/>
+      <stop offset="1" stop-color="#359609" stop-opacity="1"/>
+    </linearGradient>
+  <linearGradient id="grad_1-,0,0,1,-258.5,-161.8" y2="35.95" x2="1.4" x1="1.4" y1="9.15" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#995900" stop-opacity="1"/>
+      <stop offset="1" stop-color="#663B00" stop-opacity="1"/>
+    </linearGradient><linearGradient id="grad_2-,0,0,1,-258.5,-161.8" y2="35.95" x2="1.4" x1="1.4" y1="9.15" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#663B00" stop-opacity="1"/>
+      <stop offset="1" stop-color="#663B00" stop-opacity="1"/>
+    </linearGradient><linearGradient id="grad_3-0.9980347156524658,-0.0626637414097786,-0.0626637414097786,0.9980347156524658,311.2,-143.9" y2="36.7335" x2="33.1844" x1="34.8325" y1="10.4852" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#995900" stop-opacity="1"/>
+      <stop offset="1" stop-color="#663B00" stop-opacity="1"/>
+    </linearGradient><linearGradient id="grad_4-0.9980347156524658,-0.0626637414097786,-0.0626637414097786,0.9980347156524658,311.2,-143.9" y2="36.7335" x2="33.1844" x1="34.8325" y1="10.4852" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#663B00" stop-opacity="1"/>
+      <stop offset="1" stop-color="#663B00" stop-opacity="1"/>
+    </linearGradient><linearGradient id="grad_5-0.97491055727005,0.22259700298309326,-0.22259700298309326,-0.97491055727005,332.5,118.55000000000001" x2="3.2401" x1="33.9011" y1="10.25" y2="17.2507" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#369909" stop-opacity="1"/>
+      <stop offset="1" stop-color="#359609" stop-opacity="1"/>
+    </linearGradient></defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <g id="ID0.7100254422985017">
+    <path id="ID0.9892354025505483" fill="url(#grad_1-,0,0,1,-258.5,-161.8)" stroke="url(#grad_2-,0,0,1,-258.5,-161.8)" stroke-width="2" stroke-linecap="round" d="M 1.4 9.15 L 20.6 13.2 L 20.6 35.95 L 1.5 27.15 L 1.4 9.15 Z " style="stroke-linejoin: round; stroke-linecap: round;"/>
+    <path id="ID0.9892354025505483" fill="url(#grad_3-0.9980347156524658,-0.0626637414097786,-0.0626637414097786,0.9980347156524658,311.2,-143.9)" stroke="url(#grad_4-0.9980347156524658,-0.0626637414097786,-0.0626637414097786,0.9980347156524658,311.2,-143.9)" stroke-width="2.0000000381349694" stroke-linecap="round" d="M 33.7347 10.4163 L 20.5939 13.048 L 20.4595 35.9345 L 33.7327 28.0007 L 33.7347 10.4163 Z " style="stroke-linejoin: round; stroke-linecap: round;"/>
+    <path id="ID0.9892354025505483" fill="#44C30C" stroke="url(#grad_5-0.97491055727005,0.22259700298309326,-0.22259700298309326,-0.97491055727005,332.5,118.55000000000001)" stroke-width="2.0000000204136548" stroke-linecap="round" d="M 33.9011 10.25 L 20.5114 13.1534 L 1.3814 9.1102 L 16.2818 7.657 L 33.9011 10.25 Z " style="stroke-linejoin: round; stroke-linecap: round;"/>
+  </g>
+</svg>
